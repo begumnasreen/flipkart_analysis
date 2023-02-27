@@ -55,5 +55,5 @@ d.	Pair plot for distribution and density
 4.	EDA of categorical variables
 a.	Missing value treatment
 5. Which brand has the highest average ratings?
-6. # df_br is having values of those only have rating more then 4.3 in the XIAOMI brand
+6. df_br is having values of those only have rating more then 4.3 in the XIAOMI brand
 Note: The last two points are performed to make the new dataset ready for training and prediction.
